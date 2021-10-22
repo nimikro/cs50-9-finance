@@ -2,9 +2,9 @@
 This is a command line application developed in C# that will validate a credit card number, as well as it's flag using Hans Peter Luhn's algorithm. This is an exercise for Harvard's CS50 online course.
 
 # Table of contents
-1. [Credit]
-2. [Luhn’s Algorithm]
-3. [Implementation Details]
+1. [Credit](https://github.com/Nimikro/cs50-1-finance#credit)
+2. [Luhn’s Algorithm](https://github.com/Nimikro/cs50-1-finance#luhns-algorithm)
+3. [Implementation Details](https://github.com/Nimikro/cs50-1-finance#implementation-details)
 
 # Credit
 A credit (or debit) card, of course, is a plastic card with which you can pay for goods and services. Printed on that card is a number that’s also stored in a database somewhere, so that when your card is used to buy something, the creditor knows whom to bill. There are a lot of people with credit cards in this world, so those numbers are pretty long: American Express uses 15-digit numbers, MasterCard uses 16-digit numbers, and Visa uses 13- and 16-digit numbers. And those are decimal numbers (0 through 9), not binary, which means, for instance, that American Express could print as many as 10^15 = 1,000,000,000,000,000 unique cards! (That’s, um, a quadrillion.)
