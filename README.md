@@ -4,7 +4,7 @@ Web application via which users can “buy” and “sell” stocks. This is an 
 ![finance web app](https://github.com/Nimikro/cs50-9-finance/blob/main/finance.png)
 
 # About this program
-This application uses Python, HTML and styling with Bootstrap. It also uses IEX API to get the stocks values in real time and a SQL database to store users information, such as username, a hash of the password, the stocks they bought or sold and the history of all transactions they made.
+This application uses Python, HTML and styling with Bootstrap. It also uses IEX API to get the stocks values in real time and a SQL database to store users' information, such as username, a hash of the password, the stocks they bought or sold and the history of all transactions they made.
 
 # Usage
 
